@@ -8,12 +8,12 @@
 **MUF Tracker**, animeleri, filmleri, video oyunlarını ve kitapları tek bir asenkron bulut tabanında toplayan; gelişmiş algoritmalar, canlı API desteği ve gerçek zamanlı kütüphane istatistikleri sunan kişisel bir arşiv ve takip uygulamasıdır.
 
 <p align="center">
-  <img src="https://via.placeholder.com/220x440.png?text=Kesfet+Ekrani" width="22%" /> &nbsp;&nbsp;
+  <img width="326" height="687" alt="resim" src="https://github.com/user-attachments/assets/4aa04b1d-c79d-4478-bbdf-66548635cf1d" /> &nbsp;&nbsp;
   <img src="https://via.placeholder.com/220x440.png?text=Filtreler" width="22%" /> &nbsp;&nbsp;
   <img src="https://via.placeholder.com/220x440.png?text=Ozel+Dialog" width="22%" /> &nbsp;&nbsp;
   <img src="https://via.placeholder.com/220x440.png?text=Profil+Dashboard" width="22%" />
-</p>
-*(Not: Bu alana uygulamanızın gerçek ekran görüntülerini ekleyebilirsiniz)*
+</p><img width="326" height="687" alt="resim" src="https://github.com/user-attachments/assets/4aa04b1d-c79d-4478-bbdf-66548635cf1d" />
+
 
 ---
 
@@ -57,4 +57,4 @@ Projeyi kendi bilgisayarınızda derlemek için şu adımları izleyin:
 
 1. Projeyi klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/mobiluygulamafinal.git](https://github.com/KULLANICI_ADIN/mobiluygulamafinal.git)
+   git clone [https://github.com/sefakesen/mobile-watchlist-project.git](https://github.com/sefakesen/mobile-watchlist-project.git)
