@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994249568325",
+    "project_id": "sefakesenfinal",
+    "storage_bucket": "sefakesenfinal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994249568325:android:ad6e296acd7db84d44332c",
+        "android_client_info": {
+          "package_name": "com.example.mobiluygulamafinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlb9LS12dgDXz4z_8l4cgoQHjj9AkRWgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
