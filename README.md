@@ -7,13 +7,6 @@
 
 **MUF Tracker**, animeleri, filmleri, video oyunlarını ve kitapları tek bir asenkron bulut tabanında toplayan; gelişmiş algoritmalar, canlı API desteği ve gerçek zamanlı kütüphane istatistikleri sunan kişisel bir arşiv ve takip uygulamasıdır.
 
-<p align="center">
-  <img width="326" height="687" alt="resim" src="https://github.com/user-attachments/assets/4aa04b1d-c79d-4478-bbdf-66548635cf1d" /> &nbsp;&nbsp;
-  <img src="https://via.placeholder.com/220x440.png?text=Filtreler" width="22%" /> &nbsp;&nbsp;
-  <img src="https://via.placeholder.com/220x440.png?text=Ozel+Dialog" width="22%" /> &nbsp;&nbsp;
-  <img src="https://via.placeholder.com/220x440.png?text=Profil+Dashboard" width="22%" />
-</p><img width="326" height="687" alt="resim" src="https://github.com/user-attachments/assets/4aa04b1d-c79d-4478-bbdf-66548635cf1d" />
-
 
 ---
 
